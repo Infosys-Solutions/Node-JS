@@ -1,0 +1,5 @@
+file-system/node_modules/
+note-chat/node_modules/
+note-mongo/node_modules/
+note-mongoose/node_modules/
+web-app/node_modules/
